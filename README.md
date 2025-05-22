@@ -58,3 +58,4 @@ This Figma design effectively represents a user-friendly, voice-controlled smart
 
 ## OUTPUT
 
+![Image](https://github.com/user-attachments/assets/cfd05862-7761-4013-a602-e3eae09af525)
